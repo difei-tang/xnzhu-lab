@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-Lorem ?????? 
+Lorem ?????? just for testing 
 
 {% include section.html %}
 
